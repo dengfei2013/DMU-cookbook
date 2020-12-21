@@ -1,10 +1,8 @@
-fig:nice-fig
-tab:nice-tab
-prerequisites
 intro
-literature
-methods
-applications
-example-one
-example-two
-final-words
+下载安装
+windwos下安装
+linux下安装
+单性状动物模型
+单性状重复力模型
+动物模型母体效应
+多性状模型
